@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gurupreet6365.github.io/ChapterSolution/sitemap.xml
